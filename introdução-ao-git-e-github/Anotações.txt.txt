@@ -1,0 +1,14 @@
+link para downloar do git https://git-scm.com/about
+
+Sobre O Git
+Ramificação e fusão
+O recurso Git que realmente o diferencia de quase todos os outros SCM existentes é seu modelo de ramificação.
+
+O Git permite e incentiva você a ter várias ramificações locais que podem ser totalmente independentes umas das outras. A criação, fusão e exclusão dessas linhas de desenvolvimento leva segundos.
+
+Isso significa que você pode fazer coisas como:
+
+Mudança de contexto sem atrito . Crie uma ramificação para experimentar uma ideia, confirme algumas vezes, volte para onde você ramificou, aplique um patch, volte para onde você está experimentando e mescle-o.
+Linhas de código baseadas em funções . Tenha uma ramificação que sempre contém apenas o que vai para a produção, outra na qual você mescla o trabalho para teste e várias menores para o trabalho do dia a dia.
+Fluxo de trabalho baseado em recursos . Crie novas ramificações para cada novo recurso em que você está trabalhando, para que você possa alternar perfeitamente entre elas e, em seguida, exclua cada ramificação quando esse recurso for mesclado em sua linha principal.
+Experimentação descartável . Crie um branch para experimentar, perceba que não vai funcionar e apenas exclua-o - abandonando o trabalho - sem que ninguém mais o veja (mesmo que você tenha enviado outros branches nesse meio tempo).
